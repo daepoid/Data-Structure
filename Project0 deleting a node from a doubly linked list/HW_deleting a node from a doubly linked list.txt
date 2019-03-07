@@ -1,0 +1,4 @@
+Writing a function for deleting a node from a doubly linked list
+
+Write a function for deleting a node from a doubly linked list.
+Upload just the function itself.

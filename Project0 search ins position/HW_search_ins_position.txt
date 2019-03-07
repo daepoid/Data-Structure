@@ -1,0 +1,5 @@
+Write a C function search_ins_position
+
+As I said in the class, develop a function called "search_ins_position" which does not appear in
+the lecture note.
+Upload the C  file having the fucntion.
